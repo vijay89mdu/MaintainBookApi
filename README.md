@@ -1,8 +1,7 @@
 # MaintainBookApi
 MaintainBookApi initial Code drop
 
-Kindly refere Video file for result from postMan and MSSQL db is packaged in source code.
-
+Kindly refer output Video file for result from postMan.
 Endpoint 
 https://localhost:7267/swagger/index.html
 https://localhost:7267/swagger/v1/swagger.json
